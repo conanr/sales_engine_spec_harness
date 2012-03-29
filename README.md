@@ -72,5 +72,4 @@ If you've implemented any or all of the extensions and want them tested by the e
       end
     end
 
-Of course, only list the extensions you've completed. If you haven't completed any, please assign an empty array to the `EXTENSIONS` constant.
- 
+Of course, only list the extensions you've completed. If you haven't completed any, please assign an empty array to the `EXTENSIONS` constant.  Otherwise, it won't work.
